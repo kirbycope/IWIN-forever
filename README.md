@@ -109,7 +109,7 @@ The same run uploads to CurseForge once two things are set up:
 1. The project's ID in `IWIN.toc` as `## X-Curse-Project-ID: <id>` (shown on the project's page on
    CurseForge, under About Project).
 2. A CurseForge API token (CurseForge account settings, API Tokens) saved as the repository secret
-   `CF_API_KEY`: `gh secret set CF_API_KEY -R kirbycope/IWIN`.
+   `CF_API_KEY`: `gh secret set CF_API_KEY -R kirbycope/IWIN-forever`.
 
 Without them the release still goes to GitHub and the CurseForge step is skipped.
 
