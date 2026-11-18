@@ -1,5 +1,5 @@
 ## Interface: 16001
-## Title: IWIN
+## Title: IWIN-forever
 ## Notes: One button that casts the next spell in your rotation.
 ## Author: kirbycope
 ## Version: @project-version@

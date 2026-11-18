@@ -1,4 +1,4 @@
-# IWIN
+# IWIN-forever
 
 One button that casts the next spell in your rotation, for World of Warcraft: Forever. Press it over and
 over and it works through your class's damage priority for you, a little like Retail's Single-Button
@@ -28,7 +28,8 @@ mode, since it can see the things a macro cannot. Use `/iwin mode macro` to keep
 
 ## Install
 
-Copy or link this folder into `World of Warcraft\_forever_\Interface\AddOns\IWIN`, then restart the game.
+Copy or link this folder into `World of Warcraft\_forever_\Interface\AddOns\IWIN-forever`, then restart
+the game. The folder name has to match `IWIN-forever.toc`, or WoW will not load it.
 
 ## Use
 
@@ -106,7 +107,7 @@ changelog built from the commits.
 
 The same run uploads to CurseForge once two things are set up:
 
-1. The project's ID in `IWIN.toc` as `## X-Curse-Project-ID: <id>` (shown on the project's page on
+1. The project's ID in `IWIN-forever.toc` as `## X-Curse-Project-ID: <id>` (shown on the project's page on
    CurseForge, under About Project).
 2. A CurseForge API token (CurseForge account settings, API Tokens) saved as the repository secret
    `CF_API_KEY`: `gh secret set CF_API_KEY -R kirbycope/IWIN-forever`.

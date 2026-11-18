@@ -1,4 +1,4 @@
-package-as: IWIN
+package-as: IWIN-forever
 
 ignore:
   - tests
