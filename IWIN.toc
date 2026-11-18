@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: IWIN
+## Notes: One button that casts the next spell in your rotation.
+## Author: kirbycope
+## Version: @project-version@
+## SavedVariablesPerCharacter: IWIN_DB
+## IconTexture: Interface\Icons\Ability_Warrior_Charge
+## Category: Combat
+
+Rotations.lua
+Core.lua
