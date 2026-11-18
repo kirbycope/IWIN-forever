@@ -6,6 +6,7 @@
 ## SavedVariablesPerCharacter: IWIN_DB
 ## IconTexture: Interface\Icons\Ability_Warrior_Charge
 ## Category: Combat
+## X-Curse-Project-ID: 1815099
 
 Rotations.lua
 Core.lua
